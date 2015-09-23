@@ -12,7 +12,7 @@
  *
  *      	a pull-up ~50kOmh resistor for both I2C wires is needed
  *
- *      SerialTerminal-STM Connections:
+ *      SerialTerminal-STM Connections: ss
  *
  *      	Rx -> PA3
  *      	Tx -> PA2
